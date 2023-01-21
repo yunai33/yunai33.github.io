@@ -1,2 +1,2 @@
 
-To be written
+$\exp{-jx} = \cos{x} + j \cdot \sin{x}$
